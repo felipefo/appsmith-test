@@ -1,8 +1,0 @@
-{
-	"data": {
-		"Data_nascimento": "2024-04-25",
-		"Status": "Liberado para o trabalho",
-		"Idade": 0,
-		"Status_geral": "Ativado"
-	}
-}
