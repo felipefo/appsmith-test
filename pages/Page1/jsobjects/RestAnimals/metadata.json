@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "RestAnimals",
+    "pageId": "Page1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Page1_RestAnimals",
+  "deleted": false,
+  "gitSyncId": "66072931dbff1a4a00e01431_66084ecadbff1a4a00e01444"
+}
