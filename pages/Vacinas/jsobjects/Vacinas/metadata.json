@@ -1,7 +1,7 @@
 {
   "unpublishedCollection": {
-    "name": "RestAnimals",
-    "pageId": "Page1",
+    "name": "Vacinas",
+    "pageId": "Vacinas",
     "pluginId": "js-plugin",
     "pluginType": "JS",
     "actions": [],
@@ -9,7 +9,7 @@
     "variables": [],
     "userPermissions": []
   },
-  "id": "Page1_RestAnimals",
+  "id": "Vacinas_Vacinas",
   "deleted": false,
-  "gitSyncId": "66072931dbff1a4a00e01431_66084ecadbff1a4a00e01444"
+  "gitSyncId": "662cdc383c8faf4dab70cf54_662cff883c8faf4dab70cf67"
 }

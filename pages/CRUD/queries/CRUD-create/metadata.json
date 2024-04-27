@@ -2,8 +2,8 @@
   "pluginType": "JS",
   "pluginId": "js-plugin",
   "unpublishedAction": {
-    "name": "removeAnimal",
-    "fullyQualifiedName": "RestAnimals.removeAnimal",
+    "name": "create",
+    "fullyQualifiedName": "CRUD.create",
     "datasource": {
       "name": "UNUSED_DATASOURCE",
       "pluginId": "js-plugin",
@@ -13,18 +13,14 @@
       "policies": [],
       "userPermissions": []
     },
-    "pageId": "Page1",
-    "collectionId": "Page1_RestAnimals",
+    "pageId": "CRUD",
+    "collectionId": "CRUD_CRUD",
     "actionConfiguration": {
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
       "encodeParamsToggle": true,
       "selfReferencingDataPaths": [],
-      "jsArguments": [
-        {
-          "name": "id"
-        }
-      ]
+      "jsArguments": []
     },
     "executeOnLoad": false,
     "clientSideExecution": true,
@@ -40,9 +36,9 @@
     "confirmBeforeExecute": false,
     "policies": [],
     "userPermissions": [],
-    "createdAt": "2024-03-30T17:41:30Z"
+    "createdAt": "2024-04-27T13:37:12Z"
   },
-  "id": "Page1_RestAnimals.removeAnimal",
+  "id": "CRUD_CRUD.create",
   "deleted": false,
-  "gitSyncId": "66072931dbff1a4a00e01431_66084ecadbff1a4a00e01441"
+  "gitSyncId": "662cdc383c8faf4dab70cf54_662cff883c8faf4dab70cf66"
 }
