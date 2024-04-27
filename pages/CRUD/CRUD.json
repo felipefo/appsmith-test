@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Page1",
-    "slug": "page1",
+    "name": "CRUD",
+    "slug": "crud",
     "layouts": [
       {
         "viewMode": false,
@@ -29,9 +29,9 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Page1_RestAnimals.getAnimal",
+              "id": "CRUD_RestAnimals.getAnimal",
               "name": "RestAnimals.getAnimal",
-              "collectionId": "Page1_RestAnimals",
+              "collectionId": "CRUD_RestAnimals",
               "confirmBeforeExecute": false,
               "pluginType": "JS",
               "jsonPathKeys": [
@@ -43,14 +43,15 @@
         ],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "Page1",
+        "id": "CRUD",
         "deleted": false,
         "policies": [],
         "userPermissions": []
       }
     ],
     "userPermissions": [],
-    "policies": []
+    "policies": [],
+    "isHidden": false
   },
   "deleted": false,
   "gitSyncId": "66072931dbff1a4a00e01431_66072931dbff1a4a00e01433"

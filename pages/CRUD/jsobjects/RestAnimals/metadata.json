@@ -1,7 +1,7 @@
 {
   "unpublishedCollection": {
-    "name": "teste",
-    "pageId": "Page1",
+    "name": "RestAnimals",
+    "pageId": "CRUD",
     "pluginId": "js-plugin",
     "pluginType": "JS",
     "actions": [],
@@ -9,7 +9,7 @@
     "variables": [],
     "userPermissions": []
   },
-  "id": "Page1_teste",
+  "id": "CRUD_RestAnimals",
   "deleted": false,
-  "gitSyncId": "66072931dbff1a4a00e01431_660854b2dbff1a4a00e0144f"
+  "gitSyncId": "66072931dbff1a4a00e01431_66084ecadbff1a4a00e01444"
 }

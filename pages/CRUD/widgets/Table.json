@@ -84,7 +84,7 @@
     "columnUpdatedAt": 1714165963986,
     "defaultSelectedRowIndices": [0],
     "mobileBottomRow": 37,
-    "widgetName": "Table1",
+    "widgetName": "Table",
     "defaultPageSize": 0,
     "columnOrder": [
         "customColumn1",
@@ -128,7 +128,7 @@
     "borderWidth": "1",
     "primaryColumns": {
         "Status_operacional": {
-            "computedValue": "{{Table1.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"Status_operacional\"]))}}",
+            "computedValue": "{{Table.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"Status_operacional\"]))}}",
             "isEditable": false,
             "notation": "standard",
             "alias": "Status_operacional",
@@ -162,7 +162,7 @@
             "verticalAlignment": "CENTER"
         },
         "Data_nascimento": {
-            "computedValue": "{{Table1.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"Data_nascimento\"]))}}",
+            "computedValue": "{{Table.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"Data_nascimento\"]))}}",
             "isEditable": false,
             "notation": "standard",
             "alias": "Data_nascimento",
@@ -196,7 +196,7 @@
             "verticalAlignment": "CENTER"
         },
         "cor": {
-            "computedValue": "{{Table1.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"cor\"]))}}",
+            "computedValue": "{{Table.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"cor\"]))}}",
             "isEditable": false,
             "notation": "standard",
             "alias": "cor",
@@ -230,7 +230,7 @@
             "verticalAlignment": "CENTER"
         },
         "numero_patrimonio": {
-            "computedValue": "{{Table1.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"numero_patrimonio\"]))}}",
+            "computedValue": "{{Table.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"numero_patrimonio\"]))}}",
             "isEditable": false,
             "notation": "standard",
             "alias": "numero_patrimonio",
@@ -264,7 +264,7 @@
             "verticalAlignment": "CENTER"
         },
         "data_aquisicao": {
-            "computedValue": "{{Table1.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"data_aquisicao\"]))}}",
+            "computedValue": "{{Table.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"data_aquisicao\"]))}}",
             "isEditable": false,
             "notation": "standard",
             "alias": "data_aquisicao",
@@ -298,7 +298,7 @@
             "verticalAlignment": "CENTER"
         },
         "Sexo": {
-            "computedValue": "{{Table1.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"Sexo\"]))}}",
+            "computedValue": "{{Table.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"Sexo\"]))}}",
             "isEditable": false,
             "notation": "standard",
             "alias": "Sexo",
@@ -332,7 +332,7 @@
             "verticalAlignment": "CENTER"
         },
         "Status_geral": {
-            "computedValue": "{{Table1.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"Status_geral\"]))}}",
+            "computedValue": "{{Table.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"Status_geral\"]))}}",
             "isEditable": false,
             "notation": "standard",
             "alias": "Status_geral",
@@ -366,7 +366,7 @@
             "verticalAlignment": "CENTER"
         },
         "Justificativa_baixado": {
-            "computedValue": "{{Table1.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"Justificativa_baixado\"]))}}",
+            "computedValue": "{{Table.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"Justificativa_baixado\"]))}}",
             "isEditable": false,
             "notation": "standard",
             "alias": "Justificativa_baixado",
@@ -400,7 +400,7 @@
             "verticalAlignment": "CENTER"
         },
         "createdAt": {
-            "computedValue": "{{Table1.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"createdAt\"]))}}",
+            "computedValue": "{{Table.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"createdAt\"]))}}",
             "isEditable": false,
             "notation": "standard",
             "alias": "createdAt",
@@ -434,7 +434,7 @@
             "verticalAlignment": "CENTER"
         },
         "id": {
-            "computedValue": "{{Table1.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"id\"]))}}",
+            "computedValue": "{{Table.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"id\"]))}}",
             "isEditable": false,
             "notation": "standard",
             "alias": "id",
@@ -468,7 +468,7 @@
             "verticalAlignment": "CENTER"
         },
         "Nome": {
-            "computedValue": "{{Table1.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"Nome\"]))}}",
+            "computedValue": "{{Table.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"Nome\"]))}}",
             "isEditable": false,
             "notation": "standard",
             "alias": "Nome",
@@ -502,7 +502,7 @@
             "verticalAlignment": "CENTER"
         },
         "data_inclusao_carga": {
-            "computedValue": "{{Table1.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"data_inclusao_carga\"]))}}",
+            "computedValue": "{{Table.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"data_inclusao_carga\"]))}}",
             "isEditable": false,
             "notation": "standard",
             "alias": "data_inclusao_carga",
@@ -536,7 +536,7 @@
             "verticalAlignment": "CENTER"
         },
         "updatedAt": {
-            "computedValue": "{{Table1.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"updatedAt\"]))}}",
+            "computedValue": "{{Table.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"updatedAt\"]))}}",
             "isEditable": false,
             "notation": "standard",
             "alias": "updatedAt",
@@ -570,7 +570,7 @@
             "verticalAlignment": "CENTER"
         },
         "Racao_Diaria": {
-            "computedValue": "{{Table1.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"Racao_Diaria\"]))}}",
+            "computedValue": "{{Table.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"Racao_Diaria\"]))}}",
             "isEditable": false,
             "notation": "standard",
             "alias": "Racao_Diaria",
@@ -604,7 +604,7 @@
             "verticalAlignment": "CENTER"
         },
         "peso": {
-            "computedValue": "{{Table1.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"peso\"]))}}",
+            "computedValue": "{{Table.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"peso\"]))}}",
             "isEditable": false,
             "notation": "standard",
             "alias": "peso",
@@ -638,7 +638,7 @@
             "verticalAlignment": "CENTER"
         },
         "numero_de_microchip": {
-            "computedValue": "{{Table1.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"numero_de_microchip\"]))}}",
+            "computedValue": "{{Table.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"numero_de_microchip\"]))}}",
             "isEditable": false,
             "notation": "standard",
             "alias": "numero_de_microchip",
@@ -672,7 +672,7 @@
             "verticalAlignment": "CENTER"
         },
         "Box": {
-            "computedValue": "{{Table1.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"Box\"]))}}",
+            "computedValue": "{{Table.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"Box\"]))}}",
             "isEditable": false,
             "notation": "standard",
             "alias": "Box",
@@ -706,10 +706,10 @@
             "verticalAlignment": "CENTER"
         },
         "customColumn1": {
-            "boxShadow": "{{Table1.processedTableData.map((currentRow, currentIndex) => ( \"none\"))}}",
+            "boxShadow": "{{Table.processedTableData.map((currentRow, currentIndex) => ( \"none\"))}}",
             "computedValue": "",
             "onClick": "{{RestAnimals.removeAnimal(currentRow.id)}}",
-            "buttonColor": "{{Table1.processedTableData.map((currentRow, currentIndex) => ( (appsmith.theme.colors.primaryColor)))}}",
+            "buttonColor": "{{Table.processedTableData.map((currentRow, currentIndex) => ( (appsmith.theme.colors.primaryColor)))}}",
             "isEditable": false,
             "notation": "standard",
             "alias": "Ações",
@@ -734,7 +734,7 @@
             "thousandSeparator": true,
             "horizontalAlignment": "LEFT",
             "isCellEditable": false,
-            "borderRadius": "{{Table1.processedTableData.map((currentRow, currentIndex) => ( (appsmith.theme.borderRadius.appBorderRadius)))}}",
+            "borderRadius": "{{Table.processedTableData.map((currentRow, currentIndex) => ( (appsmith.theme.borderRadius.appBorderRadius)))}}",
             "decimals": 0,
             "width": 150,
             "enableFilter": true,
@@ -745,7 +745,7 @@
             "verticalAlignment": "CENTER"
         },
         "forma_aquisicao": {
-            "computedValue": "{{Table1.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"forma_aquisicao\"]))}}",
+            "computedValue": "{{Table.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"forma_aquisicao\"]))}}",
             "isEditable": false,
             "notation": "standard",
             "alias": "forma_aquisicao",
@@ -779,7 +779,7 @@
             "verticalAlignment": "CENTER"
         },
         "Idade": {
-            "computedValue": "{{Table1.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"Idade\"]))}}",
+            "computedValue": "{{Table.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"Idade\"]))}}",
             "isEditable": false,
             "notation": "standard",
             "alias": "Idade",
@@ -813,7 +813,7 @@
             "verticalAlignment": "CENTER"
         },
         "nome_do_proprietario_anterior": {
-            "computedValue": "{{Table1.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"nome_do_proprietario_anterior\"]))}}",
+            "computedValue": "{{Table.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"nome_do_proprietario_anterior\"]))}}",
             "isEditable": false,
             "notation": "standard",
             "alias": "nome_do_proprietario_anterior",
@@ -847,7 +847,7 @@
             "verticalAlignment": "CENTER"
         },
         "raca": {
-            "computedValue": "{{Table1.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"raca\"]))}}",
+            "computedValue": "{{Table.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"raca\"]))}}",
             "isEditable": false,
             "notation": "standard",
             "alias": "raca",
@@ -881,7 +881,7 @@
             "verticalAlignment": "CENTER"
         },
         "especializacao": {
-            "computedValue": "{{Table1.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"especializacao\"]))}}",
+            "computedValue": "{{Table.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"especializacao\"]))}}",
             "isEditable": false,
             "notation": "standard",
             "alias": "especializacao",
@@ -915,7 +915,7 @@
             "verticalAlignment": "CENTER"
         },
         "Status_saude": {
-            "computedValue": "{{Table1.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"Status_saude\"]))}}",
+            "computedValue": "{{Table.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"Status_saude\"]))}}",
             "isEditable": false,
             "notation": "standard",
             "alias": "Status_saude",
@@ -949,7 +949,7 @@
             "verticalAlignment": "CENTER"
         },
         "valor_compra": {
-            "computedValue": "{{Table1.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"valor_compra\"]))}}",
+            "computedValue": "{{Table.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"valor_compra\"]))}}",
             "isEditable": false,
             "notation": "standard",
             "alias": "valor_compra",
