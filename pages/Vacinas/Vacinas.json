@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "CRUD",
-    "slug": "crud",
+    "name": "Vacinas",
+    "slug": "Vacinas",
     "layouts": [
       {
         "viewMode": false,
@@ -29,9 +29,9 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "CRUD_RestAnimals.getAnimal",
+              "id": "Vacinas.getAnimal",
               "name": "RestAnimals.getAnimal",
-              "collectionId": "CRUD_RestAnimals",
+              "collectionId": "Vacinas_RestAnimals",
               "confirmBeforeExecute": false,
               "pluginType": "JS",
               "jsonPathKeys": [
@@ -43,7 +43,7 @@
         ],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "CRUD",
+        "id": "Vacinas",
         "deleted": false,
         "policies": [],
         "userPermissions": []

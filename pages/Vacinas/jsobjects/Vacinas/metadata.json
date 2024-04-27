@@ -1,7 +1,7 @@
 {
   "unpublishedCollection": {
-    "name": "CRUD",
-    "pageId": "CRUD",
+    "name": "Vacinas",
+    "pageId": "Vacinas",
     "pluginId": "js-plugin",
     "pluginType": "JS",
     "actions": [],
@@ -9,7 +9,7 @@
     "variables": [],
     "userPermissions": []
   },
-  "id": "CRUD_CRUD",
+  "id": "Vacinas_Vacinas",
   "deleted": false,
-  "gitSyncId": "662cdc383c8faf4dab70cf54_662cff883c8faf4dab70cf68"
+  "gitSyncId": "662cdc383c8faf4dab70cf54_662cff883c8faf4dab70cf67"
 }
