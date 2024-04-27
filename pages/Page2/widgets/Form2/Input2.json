@@ -50,7 +50,7 @@
     "isDeprecated": false,
     "rightColumn": 54,
     "widgetId": "cp1gpb03xi",
-    "errorMessage": "{{Create.responseMeta.data.message.error}}",
+    "errorMessage": "{{Creat.responseMeta.data.message.error}}",
     "minWidth": 450,
     "label": "Nome do animal",
     "parentId": "f1tp2j0fl8",

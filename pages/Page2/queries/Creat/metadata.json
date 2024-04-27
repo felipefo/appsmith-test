@@ -2,7 +2,7 @@
   "pluginType": "API",
   "pluginId": "restapi-plugin",
   "unpublishedAction": {
-    "name": "Create",
+    "name": "Creat",
     "datasource": {
       "name": "DEFAULT_REST_DATASOURCE",
       "pluginId": "restapi-plugin",
@@ -55,7 +55,7 @@
     "userPermissions": [],
     "createdAt": "2024-04-25T21:40:22Z"
   },
-  "id": "Page2_Create",
+  "id": "Page2_Creat",
   "deleted": false,
   "gitSyncId": "66072931dbff1a4a00e01431_662acdc6556d0d4cc54f1374"
 }

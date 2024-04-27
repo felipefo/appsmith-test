@@ -2,7 +2,7 @@
     "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
     "mobileBottomRow": 67,
     "borderColor": "{{appsmith.theme.colors.backgroundColor}}",
-    "widgetName": "Form2",
+    "widgetName": "Form",
     "isCanvas": true,
     "displayName": "Form",
     "iconSVG": "/static/media/icon.e17c486a34778f3bae299c9110e00cf6.svg",
